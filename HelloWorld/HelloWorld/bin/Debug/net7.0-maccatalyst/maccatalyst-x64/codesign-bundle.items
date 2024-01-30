@@ -12,7 +12,7 @@
       <CodesignDisableTimestamp>true</CodesignDisableTimestamp>
       <CodesignKeychain></CodesignKeychain>
       <CodesignUseHardenedRuntime></CodesignUseHardenedRuntime>
-      <SourceProjectPath>/Users/student/Projects/HelloWorld/HelloWorld</SourceProjectPath>
+      <SourceProjectPath>/Users/student/Projects/mobile/HelloWorld/HelloWorld</SourceProjectPath>
     </_CodesignBundle>
   </ItemGroup>
 </Project>

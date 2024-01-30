@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>Roman.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/student/Projects/Roman/Roman/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/student/Projects/mobile/Roman/Roman/obj/Debug/net7.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>Roman.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/student/Projects/Roman/Roman</SourceProjectPath>
+      <SourceProjectPath>/Users/student/Projects/mobile/Roman/Roman</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

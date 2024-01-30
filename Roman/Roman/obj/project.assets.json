@@ -18450,11 +18450,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/student/Projects/Roman/Roman/Roman.csproj",
+      "projectUniqueName": "/Users/student/Projects/mobile/Roman/Roman/Roman.csproj",
       "projectName": "Roman",
-      "projectPath": "/Users/student/Projects/Roman/Roman/Roman.csproj",
+      "projectPath": "/Users/student/Projects/mobile/Roman/Roman/Roman.csproj",
       "packagesPath": "/Users/student/.nuget/packages/",
-      "outputPath": "/Users/student/Projects/Roman/Roman/obj/",
+      "outputPath": "/Users/student/Projects/mobile/Roman/Roman/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [

@@ -1,15 +1,16 @@
 ﻿<Properties StartupConfiguration="{469706C1-E98A-4789-BBD0-7B776FC4B693}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloWorld/MainPage.xaml.cs">
     <Files>
-      <File FileName="HelloWorld/MainPage.xaml.cs" Line="9" Column="10" />
-      <File FileName="HelloWorld/MainPage.xaml" Line="29" Column="79" />
+      <File FileName="HelloWorld/MainPage.xaml.cs" Line="23" Column="3" />
+      <File FileName="HelloWorld/MainPage.xaml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HelloWorld" expanded="True">
-            <Node name="HelloWorld" expanded="True">
-              <Node name="App.xaml" selected="True" />
+          <Node name="HelloWorld">
+            <Node name="HelloWorld">
               <Node name="MainPage.xaml" expanded="True" />
             </Node>
           </Node>
@@ -17,12 +18,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
   <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

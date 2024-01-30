@@ -12,13 +12,13 @@ public partial class MainPage : ContentPage
 	void Handle_Clicked(object sender, EventArgs e)
 	{
 
-		if (lblDisplay.Text == "Hello World!")
+		if (lblDisplay.Text == "Have a Good Day!")
 		{
-			lblDisplay.Text = "Have a Good Day";
+			lblDisplay.Text = "Hello World";
 		}
 		else
 		{
-			lblDisplay.Text = "Hello World!";
+			lblDisplay.Text = "Have a Good Day!";
 		}
 	}
 }

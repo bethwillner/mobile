@@ -1,32 +1,28 @@
 ﻿<Properties StartupConfiguration="{50E6B557-36AE-40BA-9F22-96DBAD7B4170}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.Roman PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Roman/MainPage.xaml.cs">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Roman/MainPage.xaml">
     <Files>
-      <File FileName="Roman/MainPage.xaml" Line="28" Column="31" />
-      <File FileName="Roman/MainPage.xaml.cs" Line="32" Column="10" />
-      <File FileName="Roman/Custom/Converter.cs" Line="4" Column="16" />
+      <File FileName="Roman/MainPage.xaml" Line="41" Column="27" />
+      <File FileName="Roman/MainPage.xaml.cs" />
+      <File FileName="Roman/Custom/Converter.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Roman" expanded="True">
-            <Node name="Roman" expanded="True">
-              <Node name="Custom" expanded="True" />
-              <Node name="App.xaml" expanded="True" />
-              <Node name="MainPage.xaml" expanded="True">
-                <Node name="MainPage.xaml.cs" selected="True" />
-              </Node>
+            <Node name="Roman">
+              <Node name="MainPage.xaml" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

@@ -7,9 +7,9 @@
       <dSYMSourcePathExists>false</dSYMSourcePathExists>
       <NoSymbolStrip>true</NoSymbolStrip>
       <dSYMInfoPlistRelativePath>HelloWorld.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
-      <SymbolFile>/Users/student/Projects/HelloWorld/HelloWorld/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <SymbolFile>/Users/student/Projects/mobile/HelloWorld/HelloWorld/obj/Debug/net7.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
       <DSymName>HelloWorld.app.dSYM</DSymName>
-      <SourceProjectPath>/Users/student/Projects/HelloWorld/HelloWorld</SourceProjectPath>
+      <SourceProjectPath>/Users/student/Projects/mobile/HelloWorld/HelloWorld</SourceProjectPath>
     </_PostProcessingItem>
   </ItemGroup>
 </Project>

@@ -8,6 +8,13 @@ public partial class MainPage : ContentPage
 		InitializeComponent();
 	}
 
+    void Clear_Clicked(System.Object sender, System.EventArgs e)
+    {
+        txtInput.Text = string.Empty;
+        lblDisplay.Text = "0";
+    }
+
+
     void Convert_Clicked(System.Object sender, System.EventArgs e)
     {
         int intInput;
@@ -30,6 +37,8 @@ public partial class MainPage : ContentPage
         {
             lblDisplay.Text = converter.RomanToNumber(txtInput.Text).ToString();
         }
+
+
     }
 }
 

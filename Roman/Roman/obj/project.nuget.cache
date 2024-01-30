@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G8SWhot07Pz1Y7mAWCPuEd47suvVnMS/GG793GQdkH8hjAhPy7XOkqew5Rxu9YzNaZDQA0K8wHgBVXucf32xPw==",
+  "dgSpecHash": "nutsAsk7dnRcB+dULLEkRSyxy7/MevpGTUVKotxNDbdDy+uMyo8oZUg3IJzdu6Lc7Pw9YqHPHxvcPMaPX18y2w==",
   "success": true,
-  "projectFilePath": "/Users/student/Projects/Roman/Roman/Roman.csproj",
+  "projectFilePath": "/Users/student/Projects/mobile/Roman/Roman/Roman.csproj",
   "expectedPackageFiles": [
     "/Users/student/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/student/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
