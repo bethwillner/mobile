@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{9C18EC96-D1CC-46D3-8ADB-7E5CA4BF0ABA}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BreakTime/MainPage.xaml.cs">
+    <Files>
+      <File FileName="BreakTime/MainPage.xaml.cs" Line="64" Column="21" />
+      <File FileName="BreakTime/MainPage.xaml" Line="5" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BreakTime" expanded="True">
+            <Node name="BreakTime" expanded="True">
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BreakTime PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+</Properties>
