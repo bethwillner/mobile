@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{092B9D79-EEC0-4CC6-B1AB-91B576C0EA4A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MovieApp/Models/Repository.cs">
+    <Files>
+      <File FileName="MovieApp/Models/Repository.cs" Line="19" Column="37" />
+      <File FileName="MovieApp/Views/AddPage.xaml.cs" Line="15" Column="24" />
+      <File FileName="MovieApp/App.xaml.cs" Line="23" Column="36" />
+      <File FileName="MovieApp/Views/FindPage.xaml.cs" Line="20" Column="63" />
+      <File FileName="MovieApp/Models/Movie.cs" Line="10" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MovieApp" expanded="True">
+            <Node name="MovieApp" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Repository.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="AddPage.xaml" expanded="True" />
+                <Node name="FindPage.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="AppShell.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MovieApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+</Properties>
