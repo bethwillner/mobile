@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{67BC11E0-FA3D-42AD-AF34-DEE345B315D4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.ItemProperties.CustomGPS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomGPS/MainPage.xaml.cs">
+    <Files>
+      <File FileName="CustomGPS/MainPage.xaml.cs" Line="31" Column="5" />
+      <File FileName="CustomGPS/MainPage.xaml" Line="13" Column="1" />
+      <File FileName="CustomGPS/Platforms/iOS/Info.plist" />
+      <File FileName="CustomGPS/Platforms/iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="CustomGPS/Platforms/Android/AndroidManifest.xml" />
+      <File FileName="CustomGPS/App.xaml" Line="10" Column="77" />
+      <File FileName="CustomGPS/Resources/Styles/Styles.xaml" Line="160" Column="1" />
+      <File FileName="CustomGPS/Platforms/iOS/Program.cs" Line="12" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CustomGPS" expanded="True">
+            <Node name="CustomGPS">
+              <Node name="Platforms" expanded="True">
+                <Node name="Android" expanded="True" />
+                <Node name="iOS" expanded="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="Styles" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.68" />
+</Properties>
