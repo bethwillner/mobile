@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{85E7C18D-6D82-4A77-83A4-9A8ECBA86BED}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RoundedCorners/MainPage.xaml">
+    <Files>
+      <File FileName="RoundedCorners/MainPage.xaml.cs" Line="4" Column="2" />
+      <File FileName="RoundedCorners/MainPage.xaml" Line="8" Column="126" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RoundedCorners" expanded="True">
+            <Node name="RoundedCorners">
+              <Node name="MainPage.xaml">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RoundedCorners PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7683390C-D013-4072-A26A-17395FCE105C" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
